@@ -1,13 +1,13 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    it could help me find the bug faster than having see lots of line of code
+    it could help me find the bug faster than having see lots of line of code.
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
     It helps manage the codes and projects easier, it could help save time to run
-    the last successful version of project if the newest one has bugs or errors
+    the last successful version of project if the newest one has bugs or errors.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
@@ -49,4 +49,3 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     I will upload my project to the workspace of Git, then i can manage it easily.
-    
